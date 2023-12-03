@@ -11,10 +11,10 @@ draft: false
 
 |  <span style="font-size: 16px;"> Languages </span>       | <span style="font-size: 16px;"> Frameworks </span>     | <span style="font-size: 16px;"> Databases </span> |
 | ------------- | :-----------: | ----: |
-| <span style="font-size: 17px; padding-left: 17px">Typescript</span>     | <span style="font-size: 17px;">Next.js</span> | <span style="font-size: 17px; padding-right: 17px">Mongodb</span> |
-| <span style="font-size: 17px; padding-left: 17px">Javascript</span>     | <span style="font-size: 17px;">React & it's ecosystem</span>    | <span style="font-size: 17px; padding-right: 17px">PostgreSQL</span> |
-| <span style="font-size: 17px; padding-left: 17px">Python</span> |  <span style="font-size: 17px;">Express.js</span>   |   <span style="font-size: 17px; padding-right: 17px">MySQL</span> | 
-| <span style="font-size: 17px; padding-left: 17px">Php</span> |  <span style="font-size: 17px;">Tailwind CSS</span>   |   <span style="font-size: 17px; padding-right: 17px">Redis</span> | 
+| <span style="font-size: 17px; padding-left: 8px">Typescript</span>     | <span style="font-size: 17px;">Next.js</span> | <span style="font-size: 17px; padding-right: 8px">Mongodb</span> |
+| <span style="font-size: 17px; padding-left: 8px">Javascript</span>     | <span style="font-size: 17px;">React & it's ecosystem</span>    | <span style="font-size: 17px; padding-right: 8px">PostgreSQL</span> |
+| <span style="font-size: 17px; padding-left: 8px">Python</span> |  <span style="font-size: 17px;">Express.js</span>   |   <span style="font-size: 17px; padding-right: 8px">MySQL</span> | 
+| <span style="font-size: 17px; padding-left: 8px">Php</span> |  <span style="font-size: 17px;">Tailwind CSS</span>   |   <span style="font-size: 17px; padding-right: 8px">Redis</span> | 
 
 <br>
 

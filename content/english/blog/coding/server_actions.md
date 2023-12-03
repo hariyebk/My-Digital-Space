@@ -16,8 +16,11 @@ Next.js introduces an innovative feature called Server Actions that revolutioniz
 
 Imagine this: You're building an e-commerce store. A user clicks "Add to Cart" on a product page. Previously, you needed separate API routes to handle this action. Now, with Server Actions, you can write the code directly within your component, keeping your logic organized and streamlined.
 
+<br>
 
-## What makes Server Actions powerful
+#### What makes Server Actions powerful
+
+<br>
 
 - **Simplified Code**: No need for separate API routes. Just define your action within your component.
 - **Improved Performance**: Server Actions offload data fetching and mutations to the server, resulting in faster loading times.

@@ -13,7 +13,7 @@ draft: false
 When it comes to rendering web pages, there are two main approaches: server-side rendering (SSR) and client-side rendering (CSR). Both methods have their advantages and considerations, and in this article, we'll explore the key differences between them.
 
 
-## Server-Side Rendering (SSR)
+##### Server-Side Rendering (SSR)
 
 Server-side rendering refers to the process of rendering web pages on the server and sending the fully rendered HTML to the client. Here's how SSR works:
 
@@ -34,7 +34,7 @@ However, SSR also has some limitations:
 
 <hr>
 
-## Client-Side Rendering (CSR)
+##### Client-Side Rendering (CSR)
 
 
 Client-side rendering, on the other hand, involves transferring minimal HTML content from the server and rendering the full web page on the client's browser. Here's how CSR works:
@@ -57,7 +57,9 @@ However, CSR also has some considerations:
 
 <hr>
 
-## Conclusion
+##### Conclusion
+
+<br>
 
 Server-side rendering (SSR) and client-side rendering (CSR) are two different approaches with their own strengths and considerations. SSR provides faster initial page loads, better SEO-friendliness, and improved user experience, but can add strain to the server. CSR offers more flexibility, reduced server load, and enables SPAs, but may face SEO challenges and slower initial loading times.
 
