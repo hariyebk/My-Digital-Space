@@ -11,6 +11,6 @@ I envisioned a platform that would make it easy to trace back to the original me
 
 So, what can you expect from this new platform?
 
-- **Clear Context**: With our platform, you'll instantly grasp how a conversation started and effortlessly navigate through relevant replies. Visual representation of message threads ensures that you never miss a beat.
-- **Data Control**: To address the critical challenge of building our own language models, we should encourage the use of our own language when discussing topics. By keeping the data within our community's hands, we lay the foundation for training our own Language Models in the future. This is an essential step, as there is currently a lack of structured data available for model training. We believe this platform has the potential to solve this issue.
+- **Clear Context**: With this platform, you'll instantly grasp how a conversation started and effortlessly navigate through relevant replies. Visual representation of message threads ensures that you never miss a beat.
+- **Data Control**: To address the critical challenge of building our own language models, we should encourage the use of our own language when discussing topics. By keeping the data within our own hands, The platform lays the foundation for training our own Language Models in the future. This is an essential step, as there is currently a lack of structured data available for model training. 
 Stay tuned for updates on the progress as I work on towards emproving the platform 😉.
