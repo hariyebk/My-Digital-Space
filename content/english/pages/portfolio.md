@@ -16,6 +16,8 @@ draft: false
 | <span style="font-size: 17px; padding-left: 8px">Python</span> |  <span style="font-size: 17px;">Express.js</span>   |   <span style="font-size: 17px; padding-right: 8px">MySQL</span> | 
 | <span style="font-size: 17px; padding-left: 8px">Php</span> |  <span style="font-size: 17px;">Tailwind CSS</span>   |   <span style="font-size: 17px; padding-right: 8px">Redis</span> | 
 
+**Note**:   Although I have some basic understanding and experience in Python, PHP, and Redis, I would like to address that  there is significant room for improvement that I need to make in These Technologies.
+
 <br>
 
 ## Work Experience
