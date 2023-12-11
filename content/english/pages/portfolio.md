@@ -31,12 +31,19 @@ draft: false
 * Implemented Booking and cabin Managment system
 * Collaborated with designers to deliver high-quality work
 * Developed an Intractive Dashboard for stats
-<hr>
 
-<!-- <span style = "display: flex; align-items: center; justify-content: center;"> -->
- <!-- {{< video src="https://youtu.be/qwmY5zy4IGA" width="80%" height="60%" autoplay="false" loop="false" muted="false" controls="false" class="rounded-lg" >}} -->
+<br>
+  {{< button label="demo" link="https://the-wild-oasis-hariyebk.vercel.app/" style="solid" >}} 
+
+  **Credentials:**
+  
+  * Email : harunbekri6@gmail.com
+  * password : testtest1234
+<hr>
  
   {{< youtube qwmY5zy4IGA >}}
+
+  
 
 <!-- </span> -->
 
