@@ -12,7 +12,7 @@ draft: false
 |  <span style="font-size: 16px;"> Languages </span>       | <span style="font-size: 16px;"> Frameworks </span>     | <span style="font-size: 16px;"> Databases </span> |
 | ------------- | :-----------: | ----: |
 | <span style="font-size: 17px; padding-left: 8px">Typescript</span>     | <span style="font-size: 17px;">Next.js</span> | <span style="font-size: 17px; padding-right: 8px">Mongodb</span> |
-| <span style="font-size: 17px; padding-left: 8px">Javascript</span>     | <span style="font-size: 17px;">React & it's ecosystem</span>    | <span style="font-size: 17px; padding-right: 8px">PostgreSQL</span> |
+| <span style="font-size: 17px; padding-left: 8px">Javascript</span>     | <span style="font-size: 17px;">React's ecosystem</span>    | <span style="font-size: 17px; padding-right: 8px">PostgreSQL</span> |
 | <span style="font-size: 17px; padding-left: 8px">Python</span> |  <span style="font-size: 17px;">Express.js</span>   |   <span style="font-size: 17px; padding-right: 8px">MySQL</span> | 
 | <span style="font-size: 17px; padding-left: 8px">Php</span> |  <span style="font-size: 17px;">Tailwind CSS</span>   |   <span style="font-size: 17px; padding-right: 8px">Redis</span> | 
 
@@ -24,41 +24,56 @@ draft: false
 
 <hr>
 
-### Frontend developer | The Wild Oasis | June - Augest 2023
-
-
-* Developed and maintained Internal Hotel Management web Application using React
-* Implemented Booking and cabin Managment system
-* Collaborated with designers to deliver high-quality work
-* Developed an Intractive Dashboard for stats
+#### Frontend developer | The Wild Oasis | June - Augest 2023
 
 <br>
-  {{< button label="demo" link="https://the-wild-oasis-hariyebk.vercel.app/" style="solid" >}} 
+
+<p style = "text-align: justify">
+The Wild Oasis is a charming boutique hotel, offering luxurious wooden cabins for a stay. To streamline their operations and enhance guest experiences, They embarked on a project to develop a custom-built Internal Hotel Management App. The main objective of the project was to create a comprehensive application that handles all aspects of hotel management, including bookings, cabin availability, and guest information. The Internal Hotel Management App serves as a central hub for hotel staff, providing them with the necessary tools to efficiently manage check-ins, handle reservations, and deliver exceptional customer service. As the Front-end developer, I took charge of the conceptualizing and development process, bringing the application to life and ensuring it met the hotel's requirements.
+</p>
+<br>
+
+##### Features I have Successfully Implemented:
+<br>
+
+- **User Authentication**: Leveraging Supabase for the backend, I implemented a secure user authentication system that allows only authorized hotel employees to create an account for other hotel staff members.
+
+- **Cabin, Booking, and Guest Management System**: In the cabin, booking, and guest management sections, I utilized React's compound component pattern to create a flexible and reusable Table structure where, each section has it's own data and users can perform CRUD (create, read, update and delete) operations to efficient control and organize bookings, cabins and guests .
+
+- **Dashboard**:  I developed a dynamic dashboard that provides important insights and statistics for the hotel's operations. It offers a list of guests checking in and out on the current day, statistics on recent bookings, sales, check-ins, the number of pre-paid guests, along with the occupancy rate. To facilitate decision-making, the dashboard includes Visually intuitive charts powered by Recharts library to display daily hotel sales (including extras) and stay duration statistics.
+
+- **Application Settings**: I have also implemented an application settings feature that allows users to define and customize various aspects of the application. Users can set parameters such as breakfast price, minimum and maximum nights per booking, and the maximum number of guests per booking. These settings ensure flexibility and adaptability to the hotel's specific requirements.
+
+<br>
+
+ {{< youtube qwmY5zy4IGA >}}
+
+  <br>
+  {{< button label="Preview demo" link="https://the-wild-oasis-hariyebk.vercel.app/" style="solid" >}} 
 
   **Credentials:**
   
   * Email : harunbekri6@gmail.com
   * password : testtest1234
 <hr>
- 
-  {{< youtube qwmY5zy4IGA >}}
 
-  
-
-<!-- </span> -->
-
-
-<br>
 
 ### Backend developer | Natours | March - June 2023
 
+<br>
 
-* Designed and implemented RESTful APIs using Node.js and Express
-* Integrated Stripes check-out session for seemless payment processing
-* Collabrated with A team of developers to build pug template
-* Troubleshooted and resolved complex technical issues
-* Provided technical support and training to team members
+<P style = "text-align: justify">
+Natours is a tour and travel agency Initiated to build an extensive selection of captivating tour packages tailored to meet the diverse needs and preferences of travelers. As a backend developer, I had the opportunity to contribute my expertise to this exciting project, working on several key features that enhance the agency's operations and customer experience.
 
+One of the core elements I focused on was the development of public and protected RESTful API endpoints using Express.js. Leveraging the power of this Nodejs framework, I implemented a robust MongoDB database and designed a flexible aggregation pipeline to efficiently handle various API requests. This allowed for seamless data retrieval and manipulation, ensuring that the tour packages and related information were easily accessible for clients.
+
+Security was a top priority throughout the development process, and I implemented a range of essential security features. These included the implementation of HTTP Only Cookies for secure session management, data sanitization techniques to prevent malicious input, password and token encryption to safeguard sensitive user information, rate limiting to mitigate potential attacks, and measures to prevent Cross-Site Scripting (XSS) attacks. Additionally, robust error handling mechanisms were put in place to provide a secure and smooth experience for users while maintaining data integrity.
+
+To enhance the performance and user experience, I implemented server-side rendering using the Pug template engine. This allowed for efficient generation of dynamic HTML pages on the server, reducing load times and optimizing the rendering process. The result was a fast and responsive web application that provided a seamless browsing experience for users.
+
+One of the standout features I worked on was the implementation of advanced API query features. This included the ability to filter tour packages based on duration, price , and ratingAvarage, sort them according to price and tour duration, implement pagination to efficiently handle large datasets, and provide options to limit the fields returned in API responses.
+
+</p>
 <hr>
 
 <!-- <span style = "display: flex; align-items: center; justify-content: center"> 
@@ -71,7 +86,7 @@ draft: false
 
 
 
-## Projects
+## Personal Projects
 
 <br>
 
