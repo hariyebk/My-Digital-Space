@@ -3,7 +3,7 @@ title: "Software Application Architectures"
 meta_title: " architecture, scalability"
 description: "this is meta description"
 date: 2023-12-11T04:08:00Z
-image: "/images/arc.jpg"
+image: "/images/arc1.jpg"
 categories: ["coding"]
 author: "Harun Bekri"
 tags: ["scalability", "performance"]

@@ -46,16 +46,31 @@ The Wild Oasis is a charming boutique hotel, offering luxurious wooden cabins fo
 
 <br>
 
+**Demo Version of the project**
+
+<br>
+
  {{< youtube qwmY5zy4IGA >}}
 
   <br>
-  {{< button label="Preview demo" link="https://the-wild-oasis-hariyebk.vercel.app/" style="solid" >}} 
 
   **Credentials:**
   
   * Email : harunbekri6@gmail.com
   * password : testtest1234
-<hr>
+
+   <br>
+  {{< button label="Preview" link="https://the-wild-oasis-hariyebk.vercel.app/" style="solid" >}} 
+
+  <hr>
+
+  **Note**
+  
+   If you experienced difficulties logging into the site, please consider that the demo version of the site utilizes Superbase with a free plan as its backend. for resource utilization if the project is not active , There is a possibility that they may pause the project temporarily.
+
+   <hr>
+
+  
 
 
 ### Backend developer | Natours | March - June 2023
@@ -95,7 +110,7 @@ One of the standout features I worked on was the implementation of advanced API 
 
 <br>
 
-HabeshaPics is a dynamic and fully responsive social media application inspired by Instagram. With HabeshaPics, users can explore a vibrant community of creators, sharing captivating moments through photos. The platform offers a seamless and intuitive interface for users to discover, interact with, and share visual content.
+HabeshaPics is a dynamic and responsive social media application inspired by Instagram. With HabeshaPics, users can follow/unfollow their friends, sharing captivating moments through photos. The platform offers a seamless and intuitive interface for users to discover, interact with, and share visual content.
 
 Tech-Stack - **React** , **Typescript**, **appwrite**, **shadcn-ui**
 
@@ -107,35 +122,27 @@ Tech-Stack - **React** , **Typescript**, **appwrite**, **shadcn-ui**
 
 {{< /tab >}}
 
-{{< tab "OpenTable" >}}
+{{< tab "EPLInsights" >}}
 
 <br>
 
-OpenTable is a restaurant reservation platform inspired by the popular OpenTable service. Dinners can easily search for restaurants based on their location, cuisine preferences, or price levels. The platform offers a comprehensive database of restaurants, ensuring that diners have a wide range of options to choose from.
+This project is designed to analyze the match results of the English Premier League for the 2018/2019 season. It takes input data from a CSV file containing match details and generates a comprehensive report summarizing the outcomes and statistics of the matches.
 
-Tech-Stack - **Nextjs 13** , **PostgreSQL**, **Prisma ORM**, **Typescript**
+Tech-Stack - **Typescript**
 
 <br>
 
 <span style = "display: flex; gap: 20px;">
-{{< button label="Github" link="https://github.com/hariyebk/OpenTable-clone" style="solid" >}}</span>
+{{< button label="Github" link="https://github.com/hariyebk/EPLInsights" style="solid" >}}</span>
 
 <br>
 
 {{< /tab >}}
 
-{{< tab "WorldWise" >}}
 
-A platform where you keep track of your adventures Every where you travel around the world.
-
-Tech-Stack - **React** , **Leaflet**, **supabse**
-
-<span style = "display: flex; gap: 20px;">
-{{< button label="Github" link="https://github.com/hariyebk/WorldWise" style="solid" >}} {{< button label="Preview" link="https://world-wise-harun.vercel.app/" style="solid" >}}  </span>
-
-{{< /tab >}}
 {{< /tabs >}}
 
+<br>
 <br>
 
 <!-- <span style = "display: flex; align-items: center; justify-content: center"> 
@@ -143,6 +150,12 @@ Tech-Stack - **React** , **Leaflet**, **supabse**
 </span> -->
 
   {{< youtube 5-1IjbK7rjo >}}
+
+  <br>
+
+**Why it's not deployed ?**
+  
+   The reason I have not deployed this project is due to a CORS (Cross-Origin Resource Sharing) issue related to the backend. Unfortunately, this issue prevents the project from being deployed on free hosting services such as Vercel or Netlify. Instead, it requires a custom domain setup to properly handle the CORS restrictions.
 
 
 <br>
