@@ -13,7 +13,7 @@ draft: false
 
 In today's rapidly evolving digital landscape, building applications that are both scalable and performant is crucial. It's so important to design the application with scalability in mind from the beginning. Choosing the right application architecture pattern can significantly impact your application's ability to handle increasing workloads, maintain responsiveness, and deliver a seamless user experience.
 
-This article we dive into various application architecture patterns and their scalability strengths and weaknesses, providing valuable insights to guide your development decisions.
+In this article we will dive into various application architecture patterns and their scalability strengths and weaknesses, providing valuable insights to guide your development decisions.
 
 <hr>
 
