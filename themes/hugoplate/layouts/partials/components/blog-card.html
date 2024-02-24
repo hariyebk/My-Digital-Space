@@ -1,13 +1,13 @@
 <div class="bg-body dark:bg-darkmode-body">
   {{ $image:= .Params.image }}
   {{ if $image }}
-    {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "mb-6 w-full rounded") }}
+    {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "mb-6 w-[350px] max-lg:w-full rounded") }}
   {{ end }}
-  <h4 class="mb-3">
+  <h5 class="mb-3 text-lg">
     <a href="{{ .RelPermalink }}">
       {{ .Title }}
     </a>
-  </h4>
+  </h5>
   <ul class="mb-4">
     <li class="mr-4 inline-block">
       <a href="{{ `authors/` | relLangURL }}{{ .Params.Author | urlize }}/">

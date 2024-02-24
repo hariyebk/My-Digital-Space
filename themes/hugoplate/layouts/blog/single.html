@@ -6,7 +6,7 @@
           {{ $image:= .Params.image }}
           {{ if $image }}
             <div class="mb-10">
-              {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "w-full rounded") }}
+              {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "w-[600px] rounded") }}
             </div>
           {{ end }}
           <h1 class="h2 mb-4 max-md:text-[1.7rem] text-3xl">
