@@ -29,7 +29,7 @@
   {{ end }}
   <!-- /Banner -->
 
-  <!-- Features -->
+  <!-- What do I talk about -->
   {{ range $i, $e:= .Params.features }}
     <section class="section-sm {{ if (modBool $i 2) }}bg-gradient{{ end }}">
       <div class="container">
@@ -47,7 +47,8 @@
             <h2 class="flex mb-4 justify-center mt-5 md:justify-start ">
               {{ .title | markdownify }}
             </h2>
-            <p class="mb-8 mt-10">
+            <p class="mb-8 mt-10 max-lg:text-justify max-lg:mx-5
+            ">
               {{ .content | markdownify }}
             </p>
             <div class="flex justify-center md:flex md:justify-start">
@@ -76,7 +77,7 @@
               {{ .title | markdownify }}
             </h2>
           </div>
-          <div class="col-12 mt-10">
+          <div class="col-12 mt-10 max-lg:mt-5">
             <div class="embed-responsive embed-responsive-16by9 flex justify-center items-center">
               <iframe class="embed-responsive-item w-[400px] h-[225px] md:w-[889px] md:h-[500px] md:rounded-2xl"  src="https://www.youtube.com/embed/{{ .video }}"></iframe>
             </div>
