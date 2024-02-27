@@ -20,7 +20,7 @@ draft: false
 
 <br>
 
-## Work Experience
+### Work Experience
 
 <hr>
 
@@ -78,7 +78,7 @@ The Wild Oasis is a charming boutique hotel, offering luxurious wooden cabins fo
 <br>
 
 <P style = "text-align: justify">
-Natours is a tour and travel agency Initiated to build an extensive selection of captivating tour packages tailored to meet the diverse needs and preferences of travelers. As a backend developer, I had the opportunity to contribute my expertise to this exciting project, working on several key features that enhance the agency's operations and customer experience.
+Matours is a tour and travel agency Initiated to build an extensive selection of captivating tour packages tailored to meet the diverse needs and preferences of travelers. As a backend developer, I had the opportunity to contribute my expertise to this exciting project, working on several key features that enhance the agency's operations and customer experience.
 
 One of the core elements I focused on was the development of public and protected RESTful API endpoints using Express.js. Leveraging the power of this Nodejs framework, I implemented a robust MongoDB database and designed a flexible aggregation pipeline to efficiently handle various API requests. This allowed for seamless data retrieval and manipulation, ensuring that the tour packages and related information were easily accessible for clients.
 
@@ -117,6 +117,22 @@ Tech-Stack - **React** , **Typescript**, **appwrite**, **shadcn-ui**
 <br>
 
 {{< button label="Github" link="https://github.com/hariyebk/HabeshaPics" style="solid" >}}
+
+<br>
+
+{{< /tab >}}
+
+{{< tab "Girum Pizza" >}}
+
+<br>
+
+A pizza delivery site where users can Browse through an extensive menu of delicious pizzas, Add their desired pizzas to the cart and track the status of their order as it goes through the preparation, delivery, and arrival process.
+
+Tech-Stack - **React** , **Redux**, **Tailwindcss**
+
+<br>
+
+{{< button label="Preview" link="https://girum-pizza.vercel.app/" style="solid" >}}
 
 <br>
 
