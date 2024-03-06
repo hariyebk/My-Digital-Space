@@ -2,7 +2,7 @@
 title: "How the modern economy works"
 meta_title: "Growth, Inflation, Consumption"
 description: "How the modern economy works"
-date: 2023-12-11T04:08:00Z
+date: 2024-03-06T04:08:00Z
 image: "/images/banks.jpeg"
 categories: ["economics"]
 author: "Harun Bekri"
