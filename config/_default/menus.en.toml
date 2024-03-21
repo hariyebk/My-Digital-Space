@@ -21,12 +21,6 @@ name = "portfolio"
 url = "portfolio/"
 weight = 4 
 
-[[main]]
-name = "what's new"
-url = "news/"
-weight = 5 
-
-
 # footer menu
 [[footer]]
 name = "About"

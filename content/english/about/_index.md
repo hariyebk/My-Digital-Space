@@ -2,7 +2,7 @@
 title: "Hey, I am Harun Bekri 👋🏻"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/profile.png"
+image: "/images/hari.png"
 draft: false
 ---
 
