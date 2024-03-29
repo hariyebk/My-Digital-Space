@@ -67,36 +67,36 @@
     </section>
   {{ end }}
   <!-- /Features -->
-  <!-- Recent Works -->
+  <!-- Achievement -->
     {{ with .Params.recent_work }}
     <section class="mt-10">
       <div class="container">
         <div class="row items-center justify-between">
-          <div class="col-12">
-            <h2 class="text-center mb-8">
-              {{ .title | markdownify }}
-            </h2>
-          </div>
-          <div class="col-12 mt-10 max-lg:mt-5">
-            <div class="embed-responsive embed-responsive-16by9 flex justify-center items-center">
-              <iframe class="embed-responsive-item w-[400px] h-[225px] md:w-[889px] md:h-[500px] md:rounded-2xl"  src="https://www.youtube.com/embed/{{ .video }}"></iframe>
+            <div class="col-12">
+              <h2 class="text-center mb-8">
+                {{ .title | markdownify }}
+              </h2>
             </div>
-          </div>
-          <div class="mt-8 flex justify-center items-center">
-            {{ with .button }}
-              {{ if .enable }}
-                  <a class="btn btn-primary mt-6" href="{{ .link | absURL }}">
-                    {{ .label }}
-                    <i class="fa fa-arrow-right pl-2"></i>
-                  </a>
+            <div class="col-12 mt-10 max-lg:mt-5">
+              <div class="embed-responsive embed-responsive-16by9 flex justify-center items-center">
+                {{ partial "image" (dict "Src" .image "Alt" "badge image") }}
+              </div>
+            </div>
+            <div class="mt-14 flex justify-center items-center">
+              {{ with .button }}
+                {{ if .enable }}
+                    <a class="w-[300px] text-center btn btn-primary mt-6" href="{{ .link | absURL }}">
+                      {{ .label }}
+                      <i class="fa fa-arrow-right pl-2"></i>
+                    </a>
+                  {{ end }}
                 {{ end }}
-              {{ end }}
-            </div>
+              </div>
         </div>
       </div>
     </section>
     {{ end }}
-  <!-- /Recent Works -->
+  <!-- Achievement -->
   <!-- Testimonials -->
   {{ with site.GetPage "sections/testimonial" }}
     {{ if .Params.enable }}
@@ -160,4 +160,5 @@
     {{ end }}
   {{ end }}
   <!-- /Testimonials -->
+
 {{ end }}

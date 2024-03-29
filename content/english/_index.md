@@ -9,14 +9,14 @@ banner:
     label: "My Portfolio"
     link: "portfolio/"
 
-# Recent Work
+# latest Achievement
 recent_work:
-  title: "My Recent Work"
-  video: "l06kRcBt-0Q"
+  title: "latest Achievement"
+  image: "/images/networking-basics.png"
   button:
     enable: true
-    label: "View Projects"
-    link: "portfolio/"
+    label: "View Badge"
+    link: "https://www.credly.com/badges/4cf22bc9-4319-429b-ab2e-b3e3fe143cbf/public_url"
 
 # Features
 features:
