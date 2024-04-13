@@ -5,11 +5,36 @@ description: "Showcasing my skills and experience as a front-end developer"
 draft: false
 ---
 
-### Main Technologies I work on
+### Tools and Technologies 
 
-<br />
+<br>
 
-  | &nbsp; **Next.js** &nbsp; | &nbsp; **React.js** &nbsp; | &nbsp; **TailwindCss** &nbsp; | &nbsp; **Express.js** &nbsp; | &nbsp; **TypeScript** &nbsp; | &nbsp; **PostgreSQL** &nbsp; | &nbsp; **Prisma**  &nbsp; |
+**Front-end library and state-managment**:  React.js, Redux, tanstack query and Tailwind Css
+<br>
+
+**Runtime enviroments**:  Nodejs and Bun
+<br>
+
+**Back-end Frameworks**:  Express.js and hono.js
+<br>
+
+**Full-stack Framework**:  Next.js
+<br>
+
+**ORMs**:  Prisma and Mongoose
+<br>
+
+**Databases**:  PostgreSQL and Mongodb
+<br>
+
+**Version Control**:  Git and Github
+<br>
+
+**Authentication and Session Managment**:  Auth.js and Supabase
+<br>
+
+**Hosting and Deployment**:  Vercel and Netlify
+
 
 <hr>
 
@@ -22,13 +47,16 @@ draft: false
 
 <br>
 
+
 This project aims to create a clone of [Freelance Ethiopia's web app](https://www.freelanceethiopia.com/) with additional features and improvements to enhance the user experience. As a frequent user of their platform for finding jobs, I often encountered various inconveniences related to both the UI and functionality. Instead of simply complaining about these issues or wishing for certain features, I challenged myself to tackle them head-on and find solutions. Through this project, I have successfully addressed the following issues:
+
+
 
 <!-- ![project demo](https://utfs.io/f/0971462c-ec8d-4819-b767-90d2e27abe96-27kpi9.png) -->
 
 <br>
 
-##### Issues Faced
+##### Problems I encountered
 
 <br>
 
@@ -40,7 +68,7 @@ This project aims to create a clone of [Freelance Ethiopia's web app](https://ww
 
 4. **Complex Job Filtering**: The existing job filtering system allowed users to select multiple sectors simultaneously, but this often made it challenging to query the database effectively. To simplify the filtering process and improve database query efficiency, it would be helpful to implement a more intuitive filtering where only one sector can only be checked at a time.
 
-5. **Lack of Personalized Job Search**: The platform did not offer a user preferences section where individuals could customize their job search experience. Having the ability to save preferences, such as preferred job categories, locations, or other criteria, would allow users to tailor their job search and receive more relevant recommendations instead of being bombarded with irrelevant job posts.
+5. **Lack of Personalized Job Search**: The platform did not offer a user preferences section where individuals could customize their job search experience. Having the ability to save preferences, such as preferred job categories, locations, or other criteria, would allow users to tailor their job search and receive more relevant posts instead of being bombarded with irrelevant job posts.
 
 6. **No Option to Update Password**: The platform did not offer a way for users to update their passwords. This lack of functionality made it inconvenient for users who wanted to change their passwords for security reasons or update it periodically. Providing a password update feature would enhance the overall user experience and security of the platform.
 
@@ -52,13 +80,13 @@ This project aims to create a clone of [Freelance Ethiopia's web app](https://ww
 
 During the development of this project, I encountered the following challenges:
 
-1. **N + 1 Problem when Fetching User Application Data**: When fetching user application data for a specific job post, I faced the N + 1 problem, where the application data had to be fetched for each individual user separately, resulting in unnecessary database queries and decreased performance. I had to implement a Global state mechanism to minimize the N + 1 problem and improve the efficiency of fetching user application data.
+1. **N + 1 Problem when Fetching User Application Data**: When fetching user application data for a specific job post, I faced the N + 1 problem, where the application data had to be fetched for each individual user separately, resulting in unnecessary database queries and decreased performance. I had to implement a Global state mechanism to address the N + 1 problem and improve the efficiency of fetching user application data.
 
-2. **Designing a New UI for User Profile**: Redesigning the user profile UI, especially for updating user information, posed a challenge in terms of creating a visually appealing and user-friendly interface. I had to think creatively and consider various design principles to develop an intuitive and responsive UI for the user profile section.
+2. **Designing a New UI for User Profile**: Redesigning the user profile UI, especially for updating user information, posed a challenge in terms of creating a visually appealing and user-friendly interface. I had to think creatively and consider various design alternatives to develop an intuitive and responsive UI for the user profile section.
 
 3. **Creating Reusable React Components**: I aimed to make my React components as reusable as possible to enhance code maintainability and reduce redundancy. However, achieving a high level of reusability while accommodating different use cases required careful consideration of component structure and props. I continuously worked on refining my component architecture to strike a balance between reusability and specificity.
 
-4. **Performance-Related Issues**: As the project grew in complexity, I encountered performance-related issues, such as slow rendering times and suboptimal code execution. I had to analyze and Memoize critical components of the code, including implementing efficient hooks, and optimizing database queries to improve the overall performance of the platform.
+4. **Performance-Related Issues**: As my code base grew in complexity, I encountered performance-related issues, such as slow rendering times and suboptimal code execution. I had to analyze and Memoize critical components of the code, including implementing efficient hooks, and optimizing database queries to improve the overall performance of the platform.
 
 <br>
 
@@ -72,7 +100,14 @@ During the development of this project, I encountered the following challenges:
 
 3. **Increased Confidence**: Successfully completing a complex project like this has boosted my confidence as a developer. The knowledge and experience gained throughout the project have validated my skills and abilities, providing me with the confidence to take on more ambitious projects in the future.
 
-4. **Enhanced Knowledge of Performance Optimization Techniques**: Throughout the development process, I have delved into performance optimization techniques to ensure the application performs optimally. This hands-on experience has expanded my knowledge and understanding of optimizing software to improve efficiency, responsiveness, and overall user experience.
+<br>
+
+##### Tech Stack used
+
+<br>
+
+React 18, Tailwind Css, TanStack Query, Supabase, Shadcn-UI, Zod
+
 
 <br>
 
@@ -99,16 +134,62 @@ In future iterations of the project, I have planned to include the following fea
 
 <br>
 
-Introducing Arada Dictionary: your new spot to understand slang and informal talk! Ever felt lost in conversations because of unfamiliar words? I've been there too. That's why I decided to create Arada Dictionary. I couldn't find any online resources for our language, so I'm building one using Nextjs.
+Introducing Arada Dictionary: your new spot to understand slang and informal talk! Ever felt lost in conversations because of unfamiliar words? I've been there too. That's why I decided to create Arada Dictionary. I couldn't find any reliable online resources for Amharic slang words and phrases, so I built one using Nextjs 14.
 
 Arada Dictionary isn't just about defining words. It's a place where everyone can help each other understand slang language. Think of it as a community-driven project where we all pitch in to keep up with the latest lingo.
 
 Imagine this: you're traveling to a new city, let's say Dire Dawa and suddenly, people are using words and phrases you've never heard before. It can feel isolating, right? That's where Arada Dictionary comes in. It's like having a local guide to the slang and informal language of different cities, helping you feel more connected no matter where you go.
 
-Whether you're curious about new phrases or just want to feel more in tune with how people talk today, Arada Dictionary is here to help. It's in early development stage and I'm actively working on it to make it cool.
+<br>
+
+##### Challenges Faced
 
 <br>
-{{< button label="source code" link="https://github.com/hariyebk/Arada-dictionary" style="solid" >}}
+
+During the development of this Nextjs project, I faced several challenges:
+<br>
+
+1. **Database Service Reliability** : Finding a reliable, free cloud PostgreSQL database service was difficult due to limitations such as frequent sleep cycles. This resulted in the need to restart my database connection repeatedly during development.
+
+
+2. **keeping balance between caching and up-to date data**: Striking a balance between caching data for improved performance and avoiding stale data required me to think carefully. I used the revalidatePath function on my server actions only at the points where data can be mutated. 
+
+3. **Security Oversight** : I recently made a mistake where I accidentally exposed sensitive database information due to client-side data fetching. I fully acknowledge that this was a significant security oversight for me. It prompted me to shift fetching data on server components securely and passing it to the client-side as props. ensuring that sensitive information remains protected.
+
+4. **Email Service Limitations**: The email service provider I used requires custom domain to send emials for different addresses. since I have no custom domain, it restricted the functionality to send emails to only one address (harunbekri6@gmail.com).
+
+
+<br>
+
+
+##### Tech Stack used
+
+<br>
+
+Nextjs 14, Tailwind Css, Auth.js, Neon's Serverless Postgres , Shadcn-UI,  Zod,  Resend
+
+
+<br>
+
+{{< button label="View Project" link="https://arada-dictionary.vercel.app/" style="solid" >}} 
+    <span style = "margin-left: 30px;"> {{< button label="source code" link="https://github.com/hariyebk/Arada-dictionary" style="solid" >}} <span/>
+
+<hr>
+
+##### RoomLink
+
+<br>
+
+Introducing RoomLink: Your Key to Affordable Living
+
+As a young developer and job seeker, I understand the firsthand challenges of navigating post-graduation life while facing skyrocketing living costs. That's why I'm developing RoomLink – a web app designed to tackle the stressful task of finding affordable shared accommodations with compatible roommates. RoomLink is more than just a roommate-finding platform; it's a lifeline for young individuals like me trying to survive in the face of a high-inflation economy. 
+
+Imagine the financial relief of sharing expenses with roommates compared to bearing the burden of solo living. With RoomLink, you can significantly cut down on costs while still enjoying a comfortable and harmonious living environment. Say goodbye to financial stress and hello to affordable living with RoomLink. It is currently in active development with Nextjs 14. Stay tuned for updates .
+
+
+<br>
+
+{{< button label="Github" link="https://github.com/hariyebk/RoomLink" style="solid" >}} 
 
 
 <hr>
@@ -117,7 +198,7 @@ Whether you're curious about new phrases or just want to feel more in tune with 
 
 <br>
 
-I got an internship opportunity at [Trip.com](https://www.trip.com/) after applying through LinkedIn. During my internship, I had the privilege of working as a backend developer for 4 months, followed by 3 months as a frontend developer. This invaluable experience has allowed me to refine my skills in both areas of development and provided me with hands-on experience collaborating with a remote team.
+I got an internship opportunity at [Trip.com](https:/`/www.trip.com/) after applying through LinkedIn. During my internship, I had the privilege of working as a backend developer for 4 months, followed by 3 months as a frontend developer. This invaluable experience has allowed me to refine my skills in both areas of development and provided me with hands-on experience collaborating with a remote team.
 
 <br>
 
@@ -144,9 +225,12 @@ During my 3-month Internship, as a Frontend developer, I worked on an Internal H
 
   
   **Note**
+
+  <p style = "margin-left: 6px">
   
    If you experienced difficulties logging into the application, please consider that the project utilizes Superbase with a free plan as its backend. for resource utilization if the project is not active , There is a possibility that they may pause the project temporarily. If you really want to check it out, you can contact me and I will restart the project for you. Login credentials: email- harunbekri6@gmail.com, password: testtest1234
 
+  </p>
    <br>
 
 
@@ -158,9 +242,15 @@ During my 3-month Internship, as a Frontend developer, I worked on an Internal H
 
 <br>
 
+<p style = "margin-left: 10px; text-align: justify;">
+
 MARCH 2023 – JUNE 2023
 
-During my 4-month internship, as a Backend developer, I actively contributed to an exciting project assigned to me by my mentors. The aim of the project was to build an extensive selection of captivating tour packages tailored to meet the diverse needs and preferences of travelers. My primary focus was developing public and protected RESTful API endpoints using Express.js, while adhering to the Model-View-Controller (MVC) software architecture principle. Security was a top priority throughout the development process, and I implemented a range of essential security features like HTTP Only Cookies and Cross-Site Scripting prevention measures by using Middleware's. I also designed compressive MongoDB database Schemas and Aggregation pipelines to efficiently handle various API requests.
+During my 4-month internship, as a Backend developer, I actively contributed to an exciting project assigned to me by my mentors. The aim of the project was to build an extensive selection of captivating tour packages tailored to meet the diverse needs and preferences of travelers. My primary focus was developing public and protected RESTful API endpoints using Express.js, while adhering to the Model-View-Controller (MVC) software architecture principle. 
+
+Security was a top priority throughout the development process, and I implemented a range of essential security features like HTTP Only Cookies and Cross-Site Scripting prevention measures by using Middleware's. I also designed compressive MongoDB database Schemas and Aggregation pipelines to efficiently handle various API requests.
+
+</p>
 
 <br>
 
@@ -206,9 +296,12 @@ Tech-Stack - **React** , **Redux**, **Tailwindcss**
 ##### EPL Insights
 
 
+<p style = "margin-left: 6px">
 This project is designed to analyze the match results of the English Premier League for the 2018/2019 season. It takes input data from a CSV file containing match details and generates a comprehensive report summarizing the outcomes and statistics of the matches.
 
 Tech-Stack - **Typescript**
+
+</p>
 
 <br>
 
@@ -219,7 +312,6 @@ Tech-Stack - **Typescript**
 <br>
 
 {{< button label="Download Resume (PDF)" link="https://harunbekri.vercel.app/static/media/Harun_CV.3913103d4b31503c2d78.pdf" style="solid" >}}
-
 
 <br>
 <br>
