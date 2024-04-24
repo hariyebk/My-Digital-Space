@@ -4,7 +4,7 @@ meta_title: "server actions, data fecthing , data manipulation"
 description: "This blog article explains what nextjs server actions are"
 date: 2023-11-20T04:14:00Z
 image: "/images/serveractions.png"
-categories: ["coding"]
+categories: ["Technology"]
 author: "Harun Bekri"
 tags: ["server-actions", "data-fetching"]
 draft: false

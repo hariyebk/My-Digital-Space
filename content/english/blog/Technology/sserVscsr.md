@@ -4,7 +4,7 @@ meta_title: "server side rendering, client side rendering"
 description: "this is meta description"
 date: 2023-11-20T04:14:00Z
 image: "/images/ssrcsr.jpg.webp"
-categories: ["coding"]
+categories: ["Technology"]
 author: "Harun Bekri"
 tags: ["server", "client"]
 draft: false

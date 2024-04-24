@@ -4,7 +4,7 @@ meta_title: "Performance, scalability"
 description: "Nginx and docker combo"
 date: 2023-12-11T04:08:00Z
 image: "/images/nginxdocker.png"
-categories: ["coding"]
+categories: ["Technology"]
 author: "Harun Bekri"
 tags: ["scalability", "performance"]
 draft: false

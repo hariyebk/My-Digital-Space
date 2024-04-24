@@ -10,7 +10,7 @@ tags: ["Growth", "Inflation", "Consumption"]
 draft: false
 ---
 
-In this blog, we will delve into the dynamics of our current economic system, highlighting the correlation between increasing money supply, the positive impact of banks creating money out of thin air, and the challenges posed by this kind of system. We will examine how the expansion of the money supply and the injection of cheap credit can stimulate economic growth, while also considering the potential drawbacks of excessive consumption and inflation.
+In this blog, we will delve into the dynamics of our current economic system, How money is printed ? Is is good or bad ?
 
 <hr />
 

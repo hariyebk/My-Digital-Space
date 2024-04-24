@@ -4,7 +4,7 @@ meta_title: "Raspberry pi"
 description: "Raspberry pi"
 date: 2024-02-23T04:08:00Z
 image: "/images/raspberrypi.jpg"
-categories: ["coding"]
+categories: ["Technology"]
 author: "Harun Bekri"
 tags: ["raspberry pi", "web server"]
 draft: false

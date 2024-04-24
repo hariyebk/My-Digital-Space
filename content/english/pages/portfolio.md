@@ -30,6 +30,9 @@ draft: false
 **Version Control**:  Git and Github
 <br>
 
+**Security testing**:  Burp Suite
+<br>
+
 **Authentication and Session Managment**:  Auth.js and Supabase
 <br>
 
@@ -38,7 +41,7 @@ draft: false
 
 <hr>
 
-### Projects related to my personal pain points
+#### Projects related to my personal pain points
 
 <br>
 <br>
@@ -74,7 +77,8 @@ This project aims to create a clone of [Freelance Ethiopia's web app](https://ww
 
 <br>
 
-##### Challenges Faced
+{{< image src="images/freelance-demo.png" caption="" alt="freelance-ethiopia demo" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+<!-- ##### Challenges Faced
 
 <br>
 
@@ -98,7 +102,7 @@ During the development of this project, I encountered the following challenges:
 
 2. **Motivation to Address other Real-World Problems**: This project has served as a catalyst for my motivation to explore and address other real-world problems.
 
-3. **Increased Confidence**: Successfully completing a complex project like this has boosted my confidence as a developer. The knowledge and experience gained throughout the project have validated my skills and abilities, providing me with the confidence to take on more ambitious projects in the future.
+3. **Increased Confidence**: Successfully completing a complex project like this has boosted my confidence as a developer. The knowledge and experience gained throughout the project have validated my skills and abilities, providing me with the confidence to take on more ambitious projects in the future. -->
 
 <br>
 
@@ -161,6 +165,10 @@ During the development of this Nextjs project, I faced several challenges:
 
 <br>
 
+{{< image src="images/arada.png" caption="" alt="arada dictionary" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+
+<br>
+
 
 ##### Tech Stack used
 
@@ -180,9 +188,9 @@ Nextjs 14, Tailwind Css, Auth.js, Neon's Serverless Postgres , Shadcn-UI,  Zod, 
 
 <br>
 
-Introducing RoomLink: Your Key to Affordable Living
+Introducing RoomLink: Your Path to Independent Living
 
-As a young developer and job seeker, I understand the firsthand challenges of navigating post-graduation life while facing skyrocketing living costs. That's why I'm developing RoomLink – a web app designed to tackle the stressful task of finding affordable shared accommodations with compatible roommates. RoomLink is more than just a roommate-finding platform; it's a lifeline for young individuals like me trying to survive in the face of a high-inflation economy. 
+As a young developer, I understand the challenges of transitioning into independent life. When starting their career, many young people struggle to pay rent on their own. That's why I'm developing RoomLink – a web app designed to connect individuals with similar interests who are seeking independent living arrangements. RoomLink empowers you to find like-minded roommates who share your desire for independence. With RoomLink, you can create a living environment that aligns with your preferences.
 
 Imagine the financial relief of sharing expenses with roommates compared to bearing the burden of solo living. With RoomLink, you can significantly cut down on costs while still enjoying a comfortable and harmonious living environment. Say goodbye to financial stress and hello to affordable living with RoomLink. It is currently in active development with Nextjs 14. Stay tuned for updates .
 
@@ -311,7 +319,7 @@ Tech-Stack - **Typescript**
 <hr>
 <br>
 
-{{< button label="Download Resume (PDF)" link="https://harunbekri.vercel.app/static/media/Harun_CV.3913103d4b31503c2d78.pdf" style="solid" >}}
+{{< button label="Download Resume (PDF)" link="https://utfs.io/f/54f5ba8c-fcbb-4865-bb28-18342aec5faf-8qqfhb.pdf" target="_blank" style="solid" >}}
 
 <br>
 <br>
