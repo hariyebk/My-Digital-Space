@@ -4,7 +4,7 @@
       <div class="lg:col-3 mb-8 text-center">
         <!-- navbar brand/logo -->
         <a
-          class="navbar-brand inline-block"
+          class="navbar-brand inline-block max-sm:ml-14"
           href="{{ site.Home.RelPermalink }}">
           {{ partial "logo" }}
         </a>
@@ -47,11 +47,5 @@
       </div>
     </div>
   </div>
-  <div class="border-border dark:border-darkmode-border border-t py-7">
-    <div class="text-light dark:text-darkmode-light container text-center">
-      <p>
-        {{ site.Params.copyright | markdownify }}
-      </p>
-    </div>
   </div>
 </footer>

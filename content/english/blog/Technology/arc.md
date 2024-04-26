@@ -6,7 +6,6 @@ date: 2023-12-11T04:08:00Z
 image: "/images/arc1.jpg"
 categories: ["Technology"]
 author: "Harun Bekri"
-tags: ["scalability", "performance"]
 draft: false
 ---
 

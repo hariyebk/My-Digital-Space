@@ -6,7 +6,7 @@
       <div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-6">
         <ul>
           {{ range $name, $items := site.Taxonomies.tags }}
-            <li class="inline-block">
+            <li class="inline-block justify-between">
               <a
                 class="hover:bg-primary dark:bg-darkmode-body dark:hover:bg-darkmode-primary dark:hover:text-dark {{ if (and (eq $.Page.Kind `term`) (eq $.Page.Type `tags`) (eq $.Page.Title .Page.Title)) }}
                   active

@@ -47,11 +47,11 @@
             <h2 class="flex mb-4 justify-center mt-5 md:justify-start ">
               {{ .title | markdownify }}
             </h2>
-            <p class="mb-8 mt-10 max-lg:text-justify max-lg:mx-5
+            <p class="mb-8 mt-10 max-sm:break-all
             ">
               {{ .content | markdownify }}
             </p>
-            <div class="flex justify-center md:flex md:justify-start">
+            <div class="flex justify-start">
             {{ with .button }}
               {{ if .enable }}
                   <a class="btn btn-primary mt-6" href="{{ .link | absURL }}">
