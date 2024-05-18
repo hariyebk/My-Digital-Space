@@ -230,6 +230,35 @@ Nowdays living alone is the most expensive thing you can do. specially if you ar
 
 <hr>
 
+### Remote Work Experience
+
+<br>
+
+##### Frontend Developer | Brothers Community
+
+- Project Stopped after 2 weeks, due to budget constraints
+
+
+<p style = "word-break: break-all;">
+I worked as a frontend developer on a community platform, where users can post blogs and video blogs, and follow other content creators. The platform features different blog categories and departments, which users can follow or join. Each user has a separate page to view all their posts across different categories, along with viewer stats.  Admins have the ability to manage the platform's structure and content, including creating and deleting departments and blog categories, approving or rejecting new accounts, and assigning or removing managers for different departments and categories. 
+</p>
+
+<p style = "word-break: break-all;">
+As a frontend developer, I was responsible for developing the user interface using Next.js 14. I collaborated with UI/UX designers on Figma, providing assistance regarding different flaws and suggestions for improvements. here are some of the key features i implemneted during this short period.
+</p>
+
+- A WYSIWYG editor for writing markdown content, allowing users to format their posts with ease.
+- Search , Pagination, Carousal and Tables
+- A progressive user registration form
+- A reusable post card 
+
+<br>
+
+ {{< button label="View project" link="https://brothers-community.vercel.app/" style="solid" class="max-sm:text-sm" >}}
+
+
+<hr>
+
 ### Internship Experience
 
 <br>
