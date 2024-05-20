@@ -225,7 +225,7 @@ Nowdays living alone is the most expensive thing you can do. specially if you ar
 
 <br>
 
-{{< button label="Github" link="https://github.com/hariyebk/RoomLink" style="solid" class="max-sm:text-sm" >}} 
+{{< button label="Github" link="https://github.com/hariyebk/Yegarabet" style="solid" class="max-sm:text-sm" >}} 
 
 
 <hr>
@@ -375,7 +375,7 @@ Tech-Stack - **Typescript**
 <hr>
 <br>
 
-{{< button label="Download Resume (PDF)" link="https://utfs.io/f/54f5ba8c-fcbb-4865-bb28-18342aec5faf-8qqfhb.pdf" target="_blank" style="solid" class="max-sm:text-sm" >}}
+{{< button label="Download Resume (PDF)" link="https://utfs.io/f/8eb95a84-8033-44c4-9468-6438e7533d73-kbwya6.pdf" target="_blank" style="solid" class="max-sm:text-sm" >}}
 
 <br>
 <br>
