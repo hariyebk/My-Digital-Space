@@ -1,7 +1,7 @@
 ---
 title: "Portfolio"
 meta_title: "My Portfolio"
-description: "Showcasing my skills and experience as a front-end developer"
+description: "Showcasing my skills and Projects as developer"
 draft: false
 ---
 
