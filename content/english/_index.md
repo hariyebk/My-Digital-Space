@@ -22,7 +22,7 @@ recent_work:
 features:
   - title: "What do I talk about ?" 
     image: "/images/call-to-action.png"
-    content: "Through my blog articles, I will unravel the intricacies of coding, shedding light on the latest techniques, frameworks, and best practices that i have discovered. But this space is more than just a technical hub. It's a canvas where I paint my world view, carefully crafted from the wisdom I've gathered through extensive reading. I believe that books hold the power to expand our minds, challenge our perspectives, and ignite our imagination. Here, I'll share my reflections, musings, and interpretations, inviting you to join me in exploring the profound ideas that have shaped my thinking."
+    content: "Through my blog articles, I will unravel the intricacies of coding, shedding light on the latest techniques, frameworks, and best practices that i have discovered. But this space is more than just a technical hub. It's a canvas where I paint my world view, carefully crafted from the wisdom I've gathered through extensive reading."
     button:
       enable: true
       label: "Read blog"
