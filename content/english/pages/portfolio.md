@@ -192,13 +192,19 @@ Introducing Yegarabet: Your Path for finding compatible roommates
 
 Nowdays living alone is the most expensive thing you can do. specially if you are a young adult like me. That's why I'm developing Yegarabet – a web app designed to connect individuals who want to share rooms and other expenses. Imagine the financial relief of sharing expenses with roommates compared to bearing the burden of solo living. 
 
-With Yegarabet, you can significantly cut down on costs while still enjoying a comfortable and harmonious living environment. Share a home, Save you money. This project is currently in active development with Nextjs 14. Stay tuned for updates . This is what my current progress looks like
+With Yegarabet, you can significantly cut down on costs while still enjoying a comfortable and harmonious living environment. Share a home, Save you money. Yegarabet is currently in active development. Stay tuned for updates. 
 
 
 {{< gallery dir="images/yegarabet" lightbox="true" carousel="true" autoplay="true" webp="true" command="Fit" zoomable="true" class="mt-10" >}}
 
-
 <br>
+
+##### Tech Stack used
+
+
+Nextjs 14, Cloudinary, Mongodb, Prisma, Google reCAPTCHA
+
+
 
 {{< button label="View Project" link="https://yegarabet.vercel.app/" style="solid" class="max-sm:text-sm mt-5" >}} 
   <span style = "margin-left: 30px;"> {{< button label="source code" link="https://github.com/hariyebk/Yegarabet" style="solid" class="max-sm:text-sm" >}} <span/>
