@@ -209,37 +209,22 @@ Nextjs 14, Cloudinary, Mongodb, Prisma, Google reCAPTCHA
 {{< button label="View Project" link="https://yegarabet.vercel.app/" style="solid" class="max-sm:text-sm mt-5" >}} 
   <span style = "margin-left: 30px;"> {{< button label="source code" link="https://github.com/hariyebk/Yegarabet" style="solid" class="max-sm:text-sm" >}} <span/>
 
-
 <hr>
 
-### Remote Work Experience
+##### Face to Sticker Chrome extension
+
+In an effort to broaden my skill set beyond web application development, I sought out new challenges. One such opportunity arose during the application process for a remote software developer position. I was tasked with creating a Chrome extension that generates fake credit card information, including card numbers, CVV codes, PINs, postal codes, and addresses. After successfully completing this challenge, I took on an additional challenge for fun intended for another developer. It was creating a Chrome extension that converts face images into AI-generated stickers. 
+
+This project was particularly exciting to me as it combined my interest in artificial intelligence with frontend development. I encountered and resolved numerous technical issues along the way, which provided me valuable hands-on experience with image processing and AI integration. Ultimately, I successfully developed the extension, which transforms face images into creative and fun AI-generated stickers.
+
+{{< image src="images/facetosticker.png" alt="before-and-after" height="360" width="700" class="mt-7">}}
 
 <br>
 
-##### Frontend Developer | Brothers Community
-
-- Project Stopped after 2 weeks, due to budget constraints
-
-
-I worked as a frontend developer on a community platform, where users can post blogs and video blogs, and follow other content creators. The platform features different blog categories and departments, which users can follow or join. Each user has a separate page to view all their posts across different categories, along with viewer stats. 
-
- Admins have the ability to manage the platform's structure and content, including creating and deleting departments and blog categories, approving or rejecting new accounts, and assigning or removing managers for different departments and categories. 
-
-
-As a frontend developer, I was responsible for developing the user interface using Next.js 14. I collaborated with UI/UX designers on Figma, providing assistance regarding different flaws and suggestions for improvements. here are some of the key features i implemneted during this short period.
-
-
-- A WYSIWYG editor for writing markdown content, allowing users to format their posts with ease.
-- Search , Pagination, Carousal and Tables
-- A progressive user registration form
-- A reusable post card 
-
-<br>
-
- {{< button label="View project" link="https://brothers-community.vercel.app/" style="solid" class="max-sm:text-sm" >}}
-
+{{< button label="source code" link="https://github.com/hariyebk/Face-to-Sticker-AI-chrome-extension" style="solid" class="max-sm:text-sm mt-5" >}}
 
 <hr>
+
 
 ### Internship Experience
 
@@ -353,6 +338,6 @@ Tech-Stack - **Typescript**
 <hr>
 <br>
 
-{{< button label="Download Resume (PDF)" link="https://utfs.io/f/57fed9ec-dce8-4460-825e-42cd99aa5f9e-7g7940.pdf" target="_blank" style="solid" class="max-sm:text-sm" >}}
+{{< button label="Download Resume (PDF)" link="https://utfs.io/f/0f0f673b-2e47-427d-bfda-e95a83fd449e-t2e56u.pdf" target="_blank" style="solid" class="max-sm:text-sm" >}}
 
 <br>
