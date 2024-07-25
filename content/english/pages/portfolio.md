@@ -248,15 +248,6 @@ I was able to create Layout for the cabin, booking, and guest management section
 
 <br>
 <br>
-
-**Project Demo**
-
-<br>
-
- {{< youtube qwmY5zy4IGA >}}
-
-  <br>
-
   
   **Note**
 
@@ -281,24 +272,8 @@ Security was a top priority throughout the development process, and I implemente
 
 </p>
 
-<br>
-
-{{< button label="View Certification" link="https://utfs.io/f/a7f6c7ea-d8a5-4e0b-8edb-a7d9a8d7add9-fviinp.jpg" style="solid" class="max-sm:text-sm" >}} 
-
-<br>
-<br>
-
-
-**Project Demo**
-
-<br>
-
-  {{< youtube l06kRcBt-0Q >}}
-
-  <br>
-  <br>
-
-  {{< button label="source code" link="https://github.com/hariyebk/Natours" style="solid" class="max-sm:text-sm" >}} 
+{{< button label="View Certification" link="https://utfs.io/f/a7f6c7ea-d8a5-4e0b-8edb-a7d9a8d7add9-fviinp.jpg" style="solid" class="max-sm:text-sm mt-5" >}} <span style = "margin-left: 30px;"> {{< button label="source code" link="https://github.com/hariyebk/Natours" style="solid" class="max-sm:text-sm" >}} <span/>
+ 
 
 <hr>
 
