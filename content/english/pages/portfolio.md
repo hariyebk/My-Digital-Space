@@ -211,9 +211,7 @@ Nextjs 14, Cloudinary, Mongodb, Prisma, Google reCAPTCHA
 
 <hr>
 
-<!-- ##### Face to Sticker Chrome extension
-
-In an effort to broaden my skill set beyond web application development, I sought out new challenges. One such opportunity arose during the application process for a remote software developer position. I was tasked with creating a Chrome extension that generates fake credit card information, including card numbers, CVV codes, PINs, postal codes, and addresses. After successfully completing this challenge, I took on an additional challenge for fun intended for another developer. It was creating a Chrome extension that converts face images into AI-generated stickers. 
+##### Face to Sticker Chrome extension
 
 This project was particularly exciting to me as it combined my interest in artificial intelligence with frontend development. I encountered and resolved numerous technical issues along the way, which provided me valuable hands-on experience with image processing and AI integration. Ultimately, I successfully developed the extension, which transforms face images into creative and fun AI-generated stickers.
 
@@ -221,7 +219,7 @@ This project was particularly exciting to me as it combined my interest in artif
 
 <br>
 
-{{< button label="source code" link="https://github.com/hariyebk/Face-to-Sticker-AI-chrome-extension" style="solid" class="max-sm:text-sm mt-5" >}} -->
+{{< button label="source code" link="https://github.com/hariyebk/Face-to-Sticker-AI-chrome-extension" style="solid" class="max-sm:text-sm mt-5" >}}
 
 <hr>
 
